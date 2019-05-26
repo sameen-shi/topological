@@ -1,0 +1,5 @@
+﻿  topologicals.cpp
+D:\program\C++\topologicals\topologicals\topologicals.cpp(6): warning C4018: “<”: 有符号/无符号不匹配
+D:\program\C++\topologicals\topologicals\topologicals.cpp(126): warning C4018: “<”: 有符号/无符号不匹配
+D:\program\C++\topologicals\topologicals\topologicals.cpp(132): warning C4018: “<”: 有符号/无符号不匹配
+  topologicals.vcxproj -> D:\program\C++\topologicals\Debug\topologicals.exe
